@@ -1,0 +1,64 @@
+.solida
+{
+    border-style: solid ridge dotted double;
+    border-width: 25px 10px 4px 35px;
+    border-color:  blueviolet rgb(55, 33, 65) rgb(117, 101, 133) rgb(71, 19, 121) ;
+
+}
+
+.dotted
+{
+    border-style: dotted;
+    border-color: blueviolet rgb(55, 33, 65) rgb(117, 101, 133) rgb(71, 19, 121) ;
+    
+};
+}
+
+.dashed
+{
+    border-style: dashed;
+    border-color:  blueviolet rgb(55, 33, 65) rgb(117, 101, 133) rgb(71, 19, 121) ;
+}
+
+.double
+{
+ border-style: double;
+ border-color:  blueviolet rgb(55, 33, 65) rgb(117, 101, 133) rgb(71, 19, 121) ;
+}
+
+.groove
+{
+  border-style: groove;  
+  border-color:    blueviolet rgb(55, 33, 65) rgb(117, 101, 133) rgb(71, 19, 121) ; 
+}
+
+.ridge
+{
+  border-style: ridge;
+  border-color:  blueviolet rgb(55, 33, 65) rgb(117, 101, 133) rgb(71, 19, 121) ;
+}
+
+.inset
+{
+  border-style: inset;
+  border-color:  blueviolet rgb(55, 33, 65) rgb(117, 101, 133) rgb(71, 19, 121) ;
+}
+
+.outset
+{
+  border-style: outset;
+  border-color:  blueviolet rgb(55, 33, 65) rgb(117, 101, 133) rgb(71, 19, 121) ;
+}
+
+.none
+{
+  border-style: none;
+  border-color:  blueviolet rgb(55, 33, 65) rgb(117, 101, 133) rgb(71, 19, 121) ;
+}
+
+.hidden
+
+{
+  border-style: hidden;
+  border-color:  blueviolet rgb(55, 33, 65) rgb(117, 101, 133) rgb(71, 19, 121) ;
+}
